@@ -9,9 +9,13 @@ Preconfigured with formatters and base UI components.
 
 ## 🔧 Tech Stack
 
-- **Next.js 14 (App Router)**, **React**, **TypeScript**
-- **Tailwind CSS** + **shadcn/ui**
-  - Installed components: `button`, `input`, `label`, `textarea`, `card`, `sonner`
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-18-20232a?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ready-000000?logo=radixui&logoColor=white)
+
+- Installed components: `button`, `input`, `label`, `textarea`, `card`, `sonner`
 - **Prettier** with plugins:
   - `prettier-plugin-tailwindcss`
   - `prettier-plugin-organize-imports`
