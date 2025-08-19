@@ -9,12 +9,12 @@ Preconfigured with formatters and base UI components.
 
 ## 🔧 Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-18-20232a?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ready-000000?logo=radixui&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-configured-F7B93E?logo=prettier&logoColor=000)
+![Next.js](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ziyou-saram/Next.js-Starter-Template/main/package.json&query=$.dependencies.next&label=Next.js&logo=nextdotjs&color=000&labelColor=444&cacheSeconds=3600)
+![React](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ziyou-saram/Next.js-Starter-Template/main/package.json&query=$.dependencies.react&label=React&logo=react&color=20232a&labelColor=444&cacheSeconds=3600)
+![TypeScript](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ziyou-saram/Next.js-Starter-Template/main/package.json&query=$.devDependencies.typescript&label=TypeScript&logo=typescript&color=3178c6&labelColor=444&cacheSeconds=3600)
+![TailwindCSS](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/ziyou-saram/Next.js-Starter-Template/main/package.json&query=$.devDependencies.tailwindcss&label=TailwindCSS&logo=tailwindcss&color=06b6d4&labelColor=444&cacheSeconds=3600)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ready-111111?logo=radixui&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-configured-f7b93e?logo=prettier&logoColor=000)
 
 - Installed components: `button`, `input`, `label`, `textarea`, `card`, `sonner`
 - **Prettier** with plugins:
