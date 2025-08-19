@@ -16,7 +16,7 @@ Preconfigured with formatters and base UI components.
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ready-000000?logo=radixui&logoColor=white)
 
 - Installed components: `button`, `input`, `label`, `textarea`, `card`, `sonner`
-- **Prettier** with plugins:
+- ![Prettier](https://img.shields.io/badge/Prettier-configured-F7B93E?logo=prettier&logoColor=000) with plugins:
   - `prettier-plugin-tailwindcss`
   - `prettier-plugin-organize-imports`
   - `prettier-plugin-sort-json`
