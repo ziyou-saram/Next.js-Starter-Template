@@ -14,9 +14,10 @@ Preconfigured with formatters and base UI components.
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-ready-000000?logo=radixui&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-configured-F7B93E?logo=prettier&logoColor=000)
 
 - Installed components: `button`, `input`, `label`, `textarea`, `card`, `sonner`
-- ![Prettier](https://img.shields.io/badge/Prettier-configured-F7B93E?logo=prettier&logoColor=000) with plugins:
+- **Prettier** with plugins:
   - `prettier-plugin-tailwindcss`
   - `prettier-plugin-organize-imports`
   - `prettier-plugin-sort-json`
