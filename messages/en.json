@@ -1,0 +1,10 @@
+{
+  "HomePage": {
+    "title": "Hello"
+  },
+  "LocaleSwitcher": {
+    "ru": "Русский",
+    "en": "English",
+    "label": "Language"
+  }
+}
