@@ -2,9 +2,14 @@
   "HomePage": {
     "title": "Привет"
   },
+  "LocaleLayout": {
+    "title": "Мое Приложение"
+  },
   "LocaleSwitcher": {
-    "ru": "Русский",
-    "en": "English",
+    "locale": {
+      "ru": "Русский",
+      "en": "English"
+    },
     "label": "Язык"
   }
 }
